@@ -9,27 +9,27 @@ end
 def add_element_to_end_of_array(array, element)
   #girl_names = ["Brittney" , "Amanda", "Gabriela" , "Lexi"]
   girl_names << "Marissa"
-  puts girl_names.inspect 
+  #puts girl_names.inspect 
 end
 
 def add_element_to_start_of_array(array, element)
  #girl_names = ["Brittney" , "Amanda", "Gabriela" , "Lexi"] 
   girl_names.unshift("Natascha")
-  puts girl_names.inspect 
+  #puts girl_names.inspect 
 end
 
 def remove_element_from_end_of_array(array)
   #girl_names = ["Brittney" , "Amanda", "Gabriela" , "Lexi"]
   girl_names.pop
-  puts girl_names.inspect
-  puts "Lexi_name"
+  #puts girl_names.inspect
+  #puts "Lexi_name"
   end
 
 def remove_element_from_start_of_array(array)
   #girl_names = ["Brittney" , "Amanda", "Gabriela" , "Lexi"]
   girl_names.shift 
-  puts girl_names.inspect
-  puts "Brittney_name"
+  #puts girl_names.inspect
+  #puts "Brittney_name"
 end
 
 def retrieve_element_from_index(array, index_number)
