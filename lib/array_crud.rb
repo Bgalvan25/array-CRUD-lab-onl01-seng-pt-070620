@@ -40,6 +40,6 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  girl_names = ["Brittney" , "Amanda", "Gabriela" , "Lexi"]
-  girl_names[-1]
+  array = ["wow", "I", "am", "really", "learning", "arrays!"]
+  array[-1]
 end
