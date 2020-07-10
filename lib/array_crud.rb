@@ -22,7 +22,7 @@ def remove_element_from_end_of_array(array)
   girl_names = ["Brittney" , "Amanda", "Gabriela" , "Lexi"]
   Lexi_name = girl_names.pop
   puts girl_names.inspect
-  
+  puts Lexi 
   
 end
 
