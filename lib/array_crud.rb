@@ -20,14 +20,14 @@ end
 
 def remove_element_from_end_of_array(array)
   #girl_names = ["Brittney" , "Amanda", "Gabriela" , "Lexi"]
-  "Lexi_name" = girl_names.pop
+  girl_names.pop
   puts girl_names.inspect
   puts "Lexi_name"
   end
 
 def remove_element_from_start_of_array(array)
   #girl_names = ["Brittney" , "Amanda", "Gabriela" , "Lexi"]
-  "Brittney_name" = girl_names.shift 
+  girl_names.shift 
   puts girl_names.inspect
   puts "Brittney_name"
 end
