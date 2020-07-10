@@ -34,7 +34,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
 girl_names = ["Brittney" , "Amanda", "Gabriela" , "Lexi"]
-
+girl_name[0]
 end
 
 def retrieve_first_element_from_array(array)
