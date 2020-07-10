@@ -7,7 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  girl_names = ["Brittney" , "Amanda", "Gabriela" , "Lexi"]
+  #girl_names = ["Brittney" , "Amanda", "Gabriela" , "Lexi"]
   girl_names << "Marissa"
   puts girl_names.inspect 
 end
