@@ -19,10 +19,8 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  girl_names = ["Brittney" , "Amanda", "Gabriela" , "Lexi"]
-  girl_names.pop
-  #puts girl_names.inspect
-  #puts "Lexi_name"
+array = ["I", "am", "really", "learning", "arrays!"]
+array.pop 
   end
 
 def remove_element_from_start_of_array(array)
