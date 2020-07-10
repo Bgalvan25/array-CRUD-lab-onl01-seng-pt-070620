@@ -15,7 +15,7 @@ end
 def add_element_to_start_of_array(array, element)
  girl_names = ["Brittney" , "Amanda", "Gabriela" , "Lexi"] 
   girl_names.unshift("Natascha")
-  
+  puts girl_names.inspect 
 end
 
 def remove_element_from_end_of_array(array)
